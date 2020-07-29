@@ -1,5 +1,5 @@
 /* 
-answer for the sql task with the lowest acceptance rate: https://leetcode.com/problems/trips-and-users/
+answer for the sql "hard" task with the lowest acceptance rate: https://leetcode.com/problems/trips-and-users/
 - MS SQL Server code
 - not exists would be better for large data sets
 - in this task subqueries work faster, but are much less neat and legible 
