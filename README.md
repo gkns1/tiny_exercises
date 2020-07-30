@@ -1,2 +1,2 @@
 # tiny_exercises
-Interview questions, exercises etc.
+Interview questions, exercises, challenges from leetcode, hackerrank etc.
